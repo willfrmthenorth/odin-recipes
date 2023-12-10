@@ -1,0 +1,2 @@
+My project is to create a recipe website with new fancy dishes that I've never tried.
+By the end of the project I want to have practiced everything I've seen so far such as: Text, font, images and links.
