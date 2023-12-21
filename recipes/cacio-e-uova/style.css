@@ -1,0 +1,28 @@
+body {
+    background-color: khaki;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    float: right;
+}
+
+.step-one {
+    padding: 5px;
+}
+
+.step-two {
+    padding: 5px;
+}
+
+.step-three {
+    padding: 5px;
+}
+
+.step-four {
+    padding: 5px;
+}
+
+.step-five {
+    padding: 5px;
+}

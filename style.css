@@ -1,0 +1,38 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+    text-align: center;
+}
+h1 {
+    font-size: xx-large
+}
+
+ul {
+    font-size: large;
+    color: chocolate;
+    margin: 50px;
+    list-style-position: inside;
+}
+
+.steak-sandwich {
+    border: 5px inset black;
+    padding: 5%;
+    margin: 25px;
+}
+
+.cacio-e-uova {
+    padding: 5%;
+    border: 5px inset black;
+    margin: 25px;
+}
+
+.crispy-fish-and-chips {
+    border: 5px inset black;
+    margin: 25px;
+    padding: 5%;
+}
+
+.list {
+    display: inline-block;
+    
+}
